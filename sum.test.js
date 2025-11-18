@@ -7,6 +7,6 @@ describe("test for sum fnx", () => {
     expect(sum(-3,-2)).toBe(-5);
   })
   test("",()=>{
-    expect(sum(-3,2)).toBe(-5);
+    expect(sum(-3,2)).toBe(-1);
   })
 });
